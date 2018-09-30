@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class='banner'> onReachBottom Testing</view>
+
+<view class='item1'> Item 1 </view>
+<view class='item2'> Item 2 </view>
+<view class='item3'> Item 3 </view>
+<view class='item4'> Item 4 </view>

@@ -1,0 +1,46 @@
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 500rpx;
+  background-color: greenyellow;
+
+}
+
+.item1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 500rpx;
+  background-color: rgb(47, 255, 210);
+
+}
+.item2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 500rpx;
+  background-color: rgb(47, 161, 255);
+
+}
+.item3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 500rpx;
+  background-color: rgb(255, 172, 47);
+
+}
+.item4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 500rpx;
+  background-color: rgb(189, 47, 255);
+
+}
